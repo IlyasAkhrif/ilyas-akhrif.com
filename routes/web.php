@@ -16,3 +16,20 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('index');
 });
+
+Route::get('/curriculum-vitae', 'HistoryController@index');
+Route::get('/curriculum-vitae/{slug}/details', 'HistoryController@show');
+Route::get('/contact', 'ContactController@index');
+Route::get('/projets', 'ProjectController@index');
+
+Route::get('/blog', 'PostController@index');
+Route::get('blog/{slug}', 'PostController@show');
+
+
+Route::prefix('admin')->group(function () {
+    Route::get('posts', 'Admin\PostController@index');
+    Route::get('posts/create', 'Admin\PostController@create');
+});
+Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+    return view('dashboard');
+})->name('dashboard');

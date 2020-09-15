@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="48df6a8e-9b58-4e82-adfb-5fedc2a66312" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/admin/blog/form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/blog/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/contact/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cv/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/cv/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ilyas-akhrif.com.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ilyas-akhrif.com.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Category.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Category.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Post.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/session.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,10 +177,29 @@
       <path value="$PROJECT_DIR$/vendor/pestphp/pest-plugin" />
       <path value="$PROJECT_DIR$/vendor/pestphp/pest" />
       <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
+      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/vendor/livewire/livewire" />
+      <path value="$PROJECT_DIR$/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/vendor/inertiajs/inertia-laravel" />
+      <path value="$PROJECT_DIR$/vendor/blade-ui-kit/blade-ui-kit" />
     </include_path>
   </component>
   <component name="ProjectId" id="1gn5wkLHETNGMDBOEFdKS4kUK5f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -144,11 +209,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/img" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Models" />
     </key>
   </component>
   <component name="RunManager" selected="PHPUnit.phpunit.xml">
@@ -172,17 +241,74 @@
       <workItem from="1598737758260" duration="308000" />
       <workItem from="1598870839066" duration="632000" />
       <workItem from="1599547854391" duration="5477000" />
-      <workItem from="1599574108221" duration="595000" />
+      <workItem from="1599574108221" duration="1350000" />
+      <workItem from="1599633559836" duration="3242000" />
+      <workItem from="1599645077021" duration="5012000" />
+      <workItem from="1599856822988" duration="181000" />
+      <workItem from="1600157657023" duration="9007000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1599553575341">
+    <state x="667" y="352" width="575" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600165050934">
       <screen x="0" y="21" width="1920" height="1059" />
     </state>
-    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1599553575341" />
+    <state x="667" y="352" width="575" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1600165050934" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom" timestamp="1599642076407">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1599635149012" />
+    <state width="1874" height="277" key="GridCell.Tab.0.bottom/0.21.1920.1059/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599642076407" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center" timestamp="1599642076407">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.center/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1599635149012" />
+    <state width="1874" height="277" key="GridCell.Tab.0.center/0.21.1920.1059/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599642076407" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left" timestamp="1599642076406">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.left/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1599635149012" />
+    <state width="1874" height="277" key="GridCell.Tab.0.left/0.21.1920.1059/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599642076406" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right" timestamp="1599642076407">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="277" key="GridCell.Tab.0.right/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1599635149012" />
+    <state width="1874" height="277" key="GridCell.Tab.0.right/0.21.1920.1059/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599642076407" />
+    <state x="449" y="185" width="1022" height="737" key="SettingsEditor" timestamp="1600165036649">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="449" y="185" width="1022" height="737" key="SettingsEditor/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1600165036649" />
+    <state x="100" y="121" width="1720" height="859" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600160458061">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="100" y="121" width="1720" height="859" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1600160458061" />
+    <state x="741" y="465" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600169979066">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="741" y="465" width="428" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1600169979066" />
+    <state x="2571" y="148" width="618" height="783" key="find.popup" timestamp="1599645752695">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2571" y="148" width="618" height="783" key="find.popup/0.21.1920.1059/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599645752695" />
+    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup" timestamp="1600169976179">
+      <screen x="0" y="21" width="1920" height="1059" />
+    </state>
+    <state x="623" y="254" width="672" height="678" key="search.everywhere.popup/0.21.1920.1059/1920.0.1920.1080@0.21.1920.1059" timestamp="1600169976179" />
+    <state x="2543" y="238" width="672" height="692" key="search.everywhere.popup/0.21.1920.1059/1920.0.1920.1080@1920.0.1920.1080" timestamp="1599645574482" />
   </component>
 </project>
